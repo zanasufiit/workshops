@@ -1,8 +1,8 @@
 # Za Nasu FIIT - Workshops list
 
 - [Workshop 1 - Docker (+ CI, GitHub)](https://github.com/zanasufiit/ws1-docker)
-  - dates: TBA
-
+  - 4.2.2020 at [Campus City, Bratislava](https://www.campus-cowork.com/sk/spaces/city)
+  - [Facebook event (Slovak)](https://www.facebook.com/events/178170716733030/)
 
 
 ## License
